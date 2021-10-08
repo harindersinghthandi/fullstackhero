@@ -17,7 +17,7 @@
 - Django
 - SQL
 
-#### Subjects#
+#### Subjects
 
 - Web Development
 - Data Modelling

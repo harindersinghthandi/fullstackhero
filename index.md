@@ -13,23 +13,23 @@
 
 #### Backend Technologies
 
--Python
--Django
--SQL
+- Python
+- Django
+- SQL
 
 #### Subjects#
 
--Web Development
--Data Modelling
--Server Managment
+- Web Development
+- Data Modelling
+- Server Management
 
 #### Developer Tools & Utilities
 
--CLI/Bash/Shell
--Atom
--Github
--Heroku
--AWS
+- CLI/Bash/Shell
+- Atom
+- Github
+- Heroku
+- AWS
       
 You can use the [editor on GitHub](https://github.com/harindersinghthandi/fullstackhero/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 

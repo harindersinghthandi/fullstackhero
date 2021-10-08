@@ -1,5 +1,36 @@
 ## Welcome to FullStackHero
 
+### Learn to code become a full-stack developer
+
+#### Frontend Languages
+
+- HTML & CSS
+- JavaScript & JQuery
+- React
+- Markdown
+- Bootstrap
+- Jekyll
+
+#### Backend Technologies
+
+-Python
+-Django
+-SQL
+
+#### Subjects#
+
+-Web Development
+-Data Modelling
+-Server Managment
+
+#### Developer Tools & Utilities
+
+-CLI/Bash/Shell
+-Atom
+-Github
+-Heroku
+-AWS
+      
 You can use the [editor on GitHub](https://github.com/harindersinghthandi/fullstackhero/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
